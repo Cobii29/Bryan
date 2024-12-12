@@ -3,4 +3,4 @@
 ---
 - primero
 - segundo
-- [GitHub] : https://github.com/Cobii29
+- [GitHub] [https://github.com/Cobii29]
