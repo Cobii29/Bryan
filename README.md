@@ -1,4 +1,8 @@
-# Bryan Valenzuela Cadena
-## 2 ASIR 
-- prueba 1
-- prueba 2
+# Estudiante de 2 ASIR
+
+## Datos del Estudiante
+
+- **Nombre:** Bryan Valenzuela Cadena
+- **Clase:** 2 ASIR
+- **Intereses:** Programación
+- **Equipo favorito:** FC Barcelona
