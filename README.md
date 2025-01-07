@@ -6,5 +6,5 @@
 - **Clase:** 2 ASIR
 - **Intereses:** Programación
 - **Equipo favorito:** FC Barcelona
-
-# prueba de conflicto
+- **Escudo:**![Escudo](../../descarga.jpg)
+- **Web:**[Web oficial del FC Barcelona](https://www.fcbarcelona.com)
