@@ -6,3 +6,5 @@
 - **Clase:** 2 ASIR
 - **Intereses:** Programación
 - **Equipo favorito:** FC Barcelona
+
+# prueba de conflicto
